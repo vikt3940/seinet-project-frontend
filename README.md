@@ -1,0 +1,1 @@
+# seinet-project-frontend
